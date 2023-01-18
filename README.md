@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub
+Name: Keiane Balicanta
 
 ## 🤓 Course overview and learning outcomes
 
